@@ -46,6 +46,7 @@ a {
     gap: .5rem;
     align-items: center;
     border-radius: 999px;
+    cursor: pointer;
 }
 svg {
     width: 2rem;
